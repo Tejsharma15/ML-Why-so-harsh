@@ -1,2 +1,4 @@
 # ML-Why-so-harsh
-This contains the files that I have submitted for the ML project - Why so Harsh
+This repo consists of code for the Harsh-comment-classification problem. 
+Given a list of comments, it classifies them into categories. Tree based models and ensemble classifiers are used as a possible solution.
+Gives accuracy of 0.98625 on the kaggle leaderboard. 
